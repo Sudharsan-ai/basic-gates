@@ -87,7 +87,8 @@ endmodule
  
 **Logic symbol & Truthtable**
 
-![GATE-EX-1](https://github.com/user-attachments/assets/f4c922cc-ec01-4a9a-b126-206032573c62)
+![Screenshot 2024-11-29 140233](https://github.com/user-attachments/assets/a55b0b87-e7d6-426f-8306-00be598a81bf)
+
 
 **RTL realization Output:** 
 
@@ -95,7 +96,7 @@ endmodule
 
 **RTL**
 
-![Screenshot 2024-11-18 161202](https://github.com/user-attachments/assets/5df33eda-f2c5-4c9d-b8e1-2fca8d3f12a2)
+![Screenshot 2024-11-18 161202](https://github.com/user-attachments/assets/d2eff710-41d5-4861-b801-bfaf9571b3d1)
 
 **Result:**
 
