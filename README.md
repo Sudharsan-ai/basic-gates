@@ -90,11 +90,11 @@ endmodule
 ![Screenshot 2024-11-29 140233](https://github.com/user-attachments/assets/a55b0b87-e7d6-426f-8306-00be598a81bf)
 
 
-**RTL realization Output:** 
+**RTL** 
 
 ![Screenshot 2024-11-18 161033](https://github.com/user-attachments/assets/5c88cc5f-1c51-4a35-bb8d-4f2c7e40459c)
 
-**RTL**
+**TIMING DIAGRAM**
 
 ![Screenshot 2024-11-18 161202](https://github.com/user-attachments/assets/d2eff710-41d5-4861-b801-bfaf9571b3d1)
 
