@@ -98,7 +98,7 @@ endmodule
 **OUTPUT**
 
 
-![image](https://github.com/user-attachments/assets/82c20d59-a868-45ea-8ce8-4398a0f0838b)
+![Screenshot 2024-11-18 161202](https://github.com/user-attachments/assets/86557a82-c9f7-45ba-ac78-032f88e3dff1)
 
 
 
